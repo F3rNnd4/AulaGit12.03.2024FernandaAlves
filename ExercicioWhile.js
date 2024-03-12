@@ -16,3 +16,5 @@ if (inicio <= fim) {
 }
 //Exibo que terminou
 console.log ("Terminou!");
+
+console.log ("Slk");
