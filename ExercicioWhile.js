@@ -8,7 +8,7 @@ if (inicio <= fim) {
     console.log (inicio);
     inicio++;
     }
-}else{
+}else{ //Senão
     while (inicio >= fim){
     console.log (fim);
     fim++
