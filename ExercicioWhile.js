@@ -6,7 +6,7 @@ let fim = 35;
 if (inicio <= fim) { //Se o inicio for menor ou igual ao fim
     while(inicio <= fim){ //Enquanto o inicio for menor ou igual ao fim
     console.log (inicio); //Exibo o inicio
-    inicio++;
+    inicio++; //Adiciono mais 1
     }
 }else{ //Senão
     while (inicio >= fim){
