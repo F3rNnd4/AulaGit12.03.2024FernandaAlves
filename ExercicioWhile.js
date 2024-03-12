@@ -4,7 +4,7 @@ let fim = 35;
 
 //Condição com if
 if (inicio <= fim) { //Se o inicio for menor ou igual ao fim
-    while(inicio <= fim){
+    while(inicio <= fim){ //Enquanto o inicio for menor ou igual ao fim
     console.log (inicio);
     inicio++;
     }
