@@ -1,4 +1,4 @@
-//Peça dois números muito legais
+//Peça dois números
 let inicio = 30;
 let fim = 35;
 
@@ -14,5 +14,5 @@ if (inicio <= fim) { //Se o inicio for menor ou igual ao fim
     fim++ //Adiciono mais 1 no fim
     }
 }
-//Exibo que terminou e uma carinha feliz de felicidade
+//Exibo que terminou
 console.log ("Terminou!");
