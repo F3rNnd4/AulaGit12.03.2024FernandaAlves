@@ -3,7 +3,7 @@ let inicio = 30;
 let fim = 35;
 
 //Condição com if
-if (inicio <= fim) {
+if (inicio <= fim) { //Se o inicio for menor ou igual ao fim
     while(inicio <= fim){
     console.log (inicio);
     inicio++;
