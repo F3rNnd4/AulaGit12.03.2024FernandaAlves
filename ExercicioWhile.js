@@ -2,7 +2,7 @@
 let inicio = 30;
 let fim = 35;
 
-//
+//Condição com if
 if (inicio <= fim) {
     while(inicio <= fim){
     console.log (inicio);
@@ -16,5 +16,3 @@ if (inicio <= fim) {
 }
 //Exibo que terminou
 console.log ("Terminou!");
-
-console.log ("Slk");
