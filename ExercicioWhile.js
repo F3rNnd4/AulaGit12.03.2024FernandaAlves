@@ -14,5 +14,7 @@ if (inicio <= fim) { //Se o inicio for menor ou igual ao fim
     fim++ //Adiciono mais 1 no fim
     }
 }
-//Exibo que terminou
+//Exibo que terminou e um ponto de exclamação
 console.log ("Terminou!");
+
+console.log ("Parabéns!");
