@@ -1,4 +1,4 @@
-//Peça dois números
+//Peça dois números muito legais
 let inicio = 30;
 let fim = 35;
 
