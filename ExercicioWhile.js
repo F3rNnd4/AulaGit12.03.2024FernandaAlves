@@ -9,7 +9,7 @@ if (inicio <= fim) { //Se o inicio for menor ou igual ao fim
     inicio++; //Adiciono mais 1
     }
 }else{ //Senão
-    while (inicio >= fim){
+    while (inicio >= fim){ //Enquanto inicio for maior ou igual ao fim
     console.log (fim);
     fim++
     }
